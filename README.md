@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aachalx02&show_icons=true&theme=tokyonight" height="150px"/>
-</p>
-
 ---
 
 *"Turn curiosity into mastery — one byte, one story at a time."*
